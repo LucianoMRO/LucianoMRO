@@ -29,6 +29,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
+
+<h2 align="center">🌐 video 1 </h2>
 <p align="left">
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
 </p>
