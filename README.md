@@ -30,6 +30,3 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISUALIZAÇÕES&color=000000&style=for-the-badge&labelColor=000000" height="150" />
-</p>
