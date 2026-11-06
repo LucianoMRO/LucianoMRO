@@ -19,7 +19,7 @@
 <h2 align="center">🌐 Redes sociais</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@SEU_CANAL">
+  <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
