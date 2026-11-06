@@ -26,14 +26,12 @@
 </p>
 
 
-
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS&color=BDBDBD&style=for-the-badge&labelColor=BDBDBD"
-    height="45"
+    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS&color=000000&style=for-the-badge&labelColor=000000"
+    height="40"
   />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
