@@ -19,7 +19,7 @@
 - 🌐 Aprendendo desenvolvimento Front-end.
 - 💡 Tenho interesse em tecnologia e desenvolvimento web.
  <p align="right">
-  <img src="./assets/assets/assets/banner-glitch.gif" width="70%" height="200" />
+  <img src="./assets/assets/assets/banner-glitch.gif" width="50%" height="200" />
 </p>
 
 ---
