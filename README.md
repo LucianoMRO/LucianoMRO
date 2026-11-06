@@ -30,7 +30,7 @@
 </p>
 
 
-<h2 align="center">🌐 video 1 </h2>
+<h2 align="center"> videos </h2>
 <p align="left">
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
 </p>
