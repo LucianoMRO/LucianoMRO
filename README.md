@@ -1,22 +1,32 @@
-
-<h2 align="center">💻 Luciano | Desenvolvedor Front-end</h2>
-
-<p align="center">
-  <img src="/assets/assets/assets/banner-glitch.gif" width="100%" height="10" />
+ <p align="center">
+  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="180" />
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Desenvolvedor+Front-end;Estudando+React" />
+</h1>
+
 <p align="center">
   Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
 </p>
 
-##  Sobre mim
+---
 
--  Estudante de programação.
--  Atualmente estudando React.
--  Aprendendo desenvolvimento Front-end.
--  Tenho interesse em tecnologia e desenvolvimento web.
+<h2 align="center">💻 Sobre mim</h2>
 
-## Em aprendizado
+- 📚 Estudante de programação.
+- ⚛️ Atualmente estudando React.
+- 🌐 Aprendendo desenvolvimento Front-end.
+- 💡 Tenho interesse em tecnologia e desenvolvimento web.
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode" />
-</div>
+---
+
+<h2 align="center">⚡ Tecnologias em aprendizado</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
+</p>
