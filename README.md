@@ -29,8 +29,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS+NO+PERFIL&color=FFFFFF&style=for-the-badge&labelColor=FFFFFF"
-    height="45"
+    src="https://img.shields.io/badge/dynamic/json?url=https://komarev.com/ghpvc/?username=LucianoMRO&query=count&label=VISITAS&color=white&labelColor=white&style=for-the-badge"
   />
 </p>
 
