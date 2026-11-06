@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="180" />
+  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="18" />
 </p>
 
 <h1 align="center">
