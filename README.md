@@ -1,4 +1,6 @@
-![Background Glitch](./banner-glitch.gif)
+<p align="center">
+  <img src="./assets/banner-glitch.gif" width="100%" />
+</p>
 
 ## 💻 Sobre mim
 
