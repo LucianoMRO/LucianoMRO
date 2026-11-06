@@ -38,6 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/assets/assets/w8ZJLtJbmuph.gif" width="700" />
+  <img src="assets/assets/assets/w8ZJLtJbmuph.gif" width="900" />
 </p>
 
