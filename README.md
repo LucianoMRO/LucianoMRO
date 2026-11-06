@@ -1,10 +1,12 @@
-<p align="center">
+ <p align="center">
   <img src="./assets/banner-glitch.gif" width="100%" />
 </p>
 
-## 💻 Sobre mim
+<h2 align="center">💻 Luciano | Desenvolvedor Front-end</h2>
 
-Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com **React**.
+<p align="center">
+  Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
+</p>
 
 ##  Sobre mim
 
