@@ -26,16 +26,18 @@
 </p>
 
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS&color=000000&style=for-the-badge&labelColor=000000"
-    height="40"
-  />
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
 <p align="right">
   <img src="./assets/assets/banner-glitch.gif" width="50%" />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=Visitas no perfil&color=000000&style=for-the-badge&labelColor=000000"
+    height="40"
+  />
 </p>
