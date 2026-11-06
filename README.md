@@ -29,4 +29,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
-
+<p align="center">
+  <img src="./assets/seu-gif.gif" width="100%" />
+</p>
