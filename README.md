@@ -5,7 +5,7 @@
 </h1>
 
  <p align="right">
-  <img src="./assets/assets/assets/banner-glitch.gif" width="50%" height="50" />
+  <img src="./assets/assets/assets/banner-glitch.gif" width="50%" height="30" />
 </p>
 
 
