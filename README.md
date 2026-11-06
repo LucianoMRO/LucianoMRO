@@ -32,7 +32,7 @@
 <h2 align="center">🎬 Vídeos</h2>
 
 <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="85%" height="80" />
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="40%" height="60" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/assets/assets/Glitch Vhs GIF by Mailchimp.gif" width="85%" height="80" />
+  <img src="./assets/assets/assets/Glitch Vhs GIF by Mailchimp.gif" width="40%" height="60" />
 </p>
