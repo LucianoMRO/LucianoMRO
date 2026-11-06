@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/assets/assets/banner-glitch.gif" width="100%" />
+  <img src="assets/assets/assets/banner-glitch.gif" width="40%" />
 </p>
 
 <h2 align="center">💻 Luciano | Desenvolvedor Front-end</h2>
