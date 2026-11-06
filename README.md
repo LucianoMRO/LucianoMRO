@@ -29,7 +29,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS+NO+PERFIL&color=00FF00&style=for-the-badge&labelColor=000000"
+    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS+NO+PERFIL&color=FFFFFF&style=for-the-badge&labelColor=FFFFFF"
     height="45"
   />
 </p>
