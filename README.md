@@ -1,72 +1,43 @@
-
-<!-- BANNER PRINCIPAL -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=45&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=LUCIANO;Desenvolvedor+Front-end" />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Estudando+Front-end;HTML%2C+CSS%2C+JS+e+React" />
 </h1>
 
-<h2 align="center">
-  <font color="#00E5FF">HTML, CSS, JavaScript</font>
-</h2>
-
 <p align="center">
-  Estudante de programação, interessado em tecnologia e
-  desenvolvimento web, atualmente aprendendo <b>React</b>.
+  Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
 </p>
+
+
 
 ---
 
-<!-- TECNOLOGIAS -->
-<h2 align="center">💻 Tecnologias</h2>
+<h2 align="center">💻 Sobre mim</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" />
-</p>
-
----
-
-<!-- REDES SOCIAIS -->
-<h2 align="center">🌐 Redes sociais</h2>
-
-<p align="center">
-  <a href="SEU_LINK_YOUTUBE">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="SEU_LINK_INSTAGRAM">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="SEU_LINK_TIKTOK">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
+-  Estudante de programação.
+-  Atualmente estudando React.
+-  Aprendendo desenvolvimento Front-end.
+-  Tenho interesse em tecnologia e desenvolvimento web.
 
 ---
 
-<!-- GIF ANIMADO -->
-<h2 align="center">🚀 Explorando o mundo da programação</h2>
+
 
 <p align="center">
-  <img src="assets/assets/assets/w8ZJLtJbmuph.gif" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" /> 
 </p>
 
----
 
-<!-- ESTATÍSTICAS -->
-<h2 align="center">📊 Estatísticas GitHub</h2>
 
 <p align="center">
-  <img height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=LucianoMRO&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&border_color=00E5FF"/>
-  <img height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoMRO&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&border_color=00E5FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
----
+<p align="right">
+  <img src="./assets/assets/banner-glitch.gif" width="50%" />
+</p>
 
-<!-- RODAPÉ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS&color=00E5FF&style=for-the-badge&labelColor=0D1117"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISUALIZAÇÕES&color=000000&style=for-the-badge&labelColor=000000"
+    height="40"
+  />
 </p>
-
-<h3 align="center">
-  <font color="#00E5FF">⚡ Transformando ideias em código.</font>
-</h3>
