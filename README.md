@@ -13,11 +13,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
 </div>
 
-## 🌱 Atualmente aprendendo
-
-- JavaScript
-- React.js
-- Componentes e Props
-- Hooks (useState e useEffect)
-- Consumo de APIs
-- Desenvolvimento de interfaces responsivas
