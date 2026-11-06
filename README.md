@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" /> 
 </p>
 
-<h2 align="center">👁️ VISUALIZAÇÕES DO PERFIL</h2>
+
 
 <p align="center">
   <img
