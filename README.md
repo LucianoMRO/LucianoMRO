@@ -1,7 +1,4 @@
-
-
 💻 Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com **React**.
-
 
 ## 🧑‍💻 Sobre mim
 
