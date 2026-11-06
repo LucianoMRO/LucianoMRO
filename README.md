@@ -18,5 +18,5 @@
 ## 🚀 Tecnologias em aprendizado
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode" />
 </div>
