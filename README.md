@@ -21,6 +21,14 @@
   <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/SEU_USUARIO/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@SEU_USUARIO">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 </p>
 
 ---
