@@ -37,4 +37,6 @@
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="50%" height="170" align="center" />
 
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="50%" height="170" align="right" />
+
+   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="50%" height="170" align="right" />
 </p>
