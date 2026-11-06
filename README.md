@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Estudando+Front-end;html, css, js e react" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Estudando+Front-end;html,css,js e react" />
 </h1>
 
 
