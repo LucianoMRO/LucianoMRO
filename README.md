@@ -32,3 +32,8 @@
 <p align="center">
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
 </p>
+
+<p align="right">
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
+</p>
+
