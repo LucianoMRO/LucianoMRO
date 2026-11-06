@@ -6,6 +6,10 @@
   Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
 </p>
 
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS+NO+PERFIL&color=00E5D4&style=for-the-badge" />
+</p>
 ---
 
 <h2 align="center">💻 Sobre mim</h2>
