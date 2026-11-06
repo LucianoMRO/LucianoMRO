@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="30%" height="80" />
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
 </p>
