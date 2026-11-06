@@ -32,13 +32,9 @@
 <h2 align="center">🎬 Vídeos</h2>
 
 <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="20%" height="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="20%" height="120" align="left" />
 
-</p>
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="20%" height="120" align="center" />
 
-
-<p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="20%" height="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="20%" height="120" align="right" />
 </p>
