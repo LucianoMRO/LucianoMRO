@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="./assets/banner-glitch.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucianoMRO/LucianoMRO/main/assets/banner-glitch.gif" width="100%" />
 </p>
 
 <h2 align="center">💻 Luciano | Desenvolvedor Front-end</h2>
