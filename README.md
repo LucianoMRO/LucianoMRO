@@ -7,9 +7,7 @@
 </p>
 
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS+NO+PERFIL&color=00E5D4&style=for-the-badge" />
-</p>
+
 ---
 
 <h2 align="center">💻 Sobre mim</h2>
@@ -24,7 +22,16 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" /> 
+</p>
+
+<h2 align="center">👁️ VISUALIZAÇÕES DO PERFIL</h2>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS&color=00E5D4&style=for-the-badge&labelColor=050505"
+    height="40"
+  />
 </p>
 
 <p align="center">
