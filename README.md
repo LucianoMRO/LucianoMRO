@@ -30,8 +30,9 @@
 </p>
 
 
-<h2 align="center"> videos </h2>
-<p align="left">
-  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
-</p>
+<h2 align="center">🎬 Vídeos</h2>
 
+<p align="center">
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="45%" height="80" />
+  <img src="./assets/segundo-gif.gif" width="45%" height="80" />
+</p>
