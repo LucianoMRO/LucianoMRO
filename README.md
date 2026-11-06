@@ -1,10 +1,15 @@
  <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="18" />
+  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="10" />
 </p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=27&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Desenvolvedor+Front-end;Estudando+React" />
 </h1>
+
+ <p align="center">
+  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="10" />
+</p>
+
 
 <p align="center">
   Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
