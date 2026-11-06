@@ -36,3 +36,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/assets/assets/Glitch Vhs GIF by Mailchimp.gif" width="20%" height="120" />
 </p>
+
+
+<p align="center">
+  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="20%" height="120" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/assets/assets/Glitch Vhs GIF by Mailchimp.gif" width="20%" height="120" />
+</p>
