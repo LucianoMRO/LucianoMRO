@@ -1,22 +1,32 @@
-
-<h2 align="center">💻 Luciano | Desenvolvedor Front-end</h2>
-
-<p align="center">
-  <img src="/assets/assets/assets/banner-glitch.gif" width="100%" height="10" />
-</p>
-<p align="center">
-  Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
+ <p align="center">
+  <img src="./assets/banner-glitch.gif" width="100%" height="200" />
 </p>
 
-##  Sobre mim
+<h1 align="center">
+  <span style="color:#00e5d4">Luciano</span>
+</h1>
 
--  Estudante de programação.
--  Atualmente estudando React.
--  Aprendendo desenvolvimento Front-end.
--  Tenho interesse em tecnologia e desenvolvimento web.
+<p align="center">
+  <code>DESENVOLVEDOR FRONT-END</code>
+</p>
 
-## Em aprendizado
+---
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode" />
-</div>
+<h2 align="left">Sobre mim</h2>
+
+<p>
+  💻 Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
+</p>
+
+- 📚 Estudante de programação.
+- ⚛️ Atualmente estudando React.
+- 🌐 Aprendendo desenvolvimento Front-end.
+- 💡 Tenho interesse em tecnologia e desenvolvimento web.
+
+---
+
+<h2 align="left">Tecnologias em aprendizado</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,vscode&theme=dark" />
+</p>
