@@ -2,9 +2,8 @@
 <h2 align="center">💻 Luciano | Desenvolvedor Front-end</h2>
 
 <p align="center">
-  <img src="assets/assets/assets/banner-glitch.gif" width="10%" />
+  <img src="/assets/assets/assets/banner-glitch.gif" width="100%" height="200" />
 </p>
-
 <p align="center">
   Sou estudante de programação, atualmente focado no desenvolvimento Front-end e aprendendo a criar aplicações web com <strong>React</strong>.
 </p>
