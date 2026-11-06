@@ -29,10 +29,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
-
 <h2 align="center">🎬 Vídeos</h2>
 
 <p align="center">
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="45%" height="80" />
-  <img src="./assets/segundo-gif.gif" width="30%" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/segundo-gif.gif" width="45%" height="80" />
 </p>
