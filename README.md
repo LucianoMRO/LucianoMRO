@@ -10,10 +10,10 @@
 
 <h2 align="center">💻 Sobre mim</h2>
 
-- 📚 Estudante de programação.
-- ⚛️ Atualmente estudando React.
-- 🌐 Aprendendo desenvolvimento Front-end.
-- 💡 Tenho interesse em tecnologia e desenvolvimento web.
+-  Estudante de programação.
+-  Atualmente estudando React.
+-  Aprendendo desenvolvimento Front-end.
+-  Tenho interesse em tecnologia e desenvolvimento web.
 
 ---
 
