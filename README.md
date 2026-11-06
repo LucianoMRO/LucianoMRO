@@ -29,8 +29,8 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS&color=00E5D4&style=for-the-badge&labelColor=050505"
-    height="40"
+    src="https://komarev.com/ghpvc/?username=LucianoMRO&label=VISITAS+NO+PERFIL&color=00FF00&style=for-the-badge&labelColor=000000"
+    height="45"
   />
 </p>
 
