@@ -29,11 +29,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
-<p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />        <p align="right">
+<p align="right">
   <img src="./assets/assets/assets/banner-glitch.gif.gif" width="10%" height="80" />
 </p>
-
-</p>
-
 
