@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="10" />
+  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="6" />
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
  <p align="center">
-  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="10" />
+  <img src="./assets/assets/assets/banner-glitch.gif" width="100%" height="6" />
 </p>
 
 
