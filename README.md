@@ -17,8 +17,9 @@
 
 <table>
   <tr>
-    <td width="85%" align="center">
+    <td width="85%" align="center" valign="middle">
       <h2>🌐 Redes sociais</h2>
+
       <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
       </a>
@@ -31,7 +32,8 @@
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
       </a>
     </td>
-    <td width="15%" align="center">
+
+    <td width="15%" align="center" valign="middle">
       <img src="assets/assets/assets/Cursores neon em animação pixel art.gif" width="70" />
     </td>
   </tr>
