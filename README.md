@@ -18,31 +18,29 @@
 
 ---
 
-<!-- REDES SOCIAIS E SETA -->
-<table width="100%">
-  <tr>
-    <td width="85%" align="center">
-      <h2>🌐 Redes sociais</h2>
-      <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-      </a>
-      <a href="https://www.instagram.com/luciano.tech2026/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-      </a>
-      <a href="https://www.tiktok.com/@luciano.tech2026">
-        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-      </a>
-    </td>
+<!-- REDES SOCIAIS E SETA CENTRALIZADAS -->
+<div align="center">
 
-   <td width="15%" align="center" valign="middle">
+  <h2>🌐 Redes sociais</h2>
+
+  <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/luciano.tech2026/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.tiktok.com/@luciano.tech2026">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
+
+  <br><br>
+
   <img
     src="assets/assets/assets/Cursores neon em animação pixel art.gif"
     width="80"
-    align="center"
   />
-</td>
-  </tr>
-</table>
+
+</div>
 
 ---
 
