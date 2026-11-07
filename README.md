@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 
-<br>
+<br><br>
 
 </div>
 <!-- SEPARADOR NEON -->
