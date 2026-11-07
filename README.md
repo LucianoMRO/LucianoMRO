@@ -24,7 +24,7 @@
     🌐 Redes sociais
     <img
       src="assets/assets/assets/cursor_neon_cortado.gif"
-      width="65"
+      width="45"
       align="middle"
     />
   </h2>
