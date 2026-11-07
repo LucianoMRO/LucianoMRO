@@ -1,25 +1,29 @@
 
+<!-- GIF PRINCIPAL -->
 <p align="center">
   <img src="assets/assets/assets/nyan_cat_luciano_typing.gif" width="100%" />
 </p>
 
+<!-- DESCRIÇÃO -->
 <h2 align="center">
   Estudante de programação, interessado em tecnologia e desenvolvimento web.
 </h2>
 
 ---
 
+<!-- TECNOLOGIAS FRONT-END -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode&theme=dark" />
 </p>
 
 ---
 
-<h2 align="center">🌐 Redes sociais</h2>
-
+<!-- REDES SOCIAIS E SETA -->
 <table width="100%">
   <tr>
-    <td width="85%" align="center" valign="middle">
+    <td align="center" valign="middle">
+      <h2>🌐 Redes sociais</h2>
+
       <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
       </a>
@@ -31,7 +35,7 @@
       </a>
     </td>
 
-    <td width="15%" align="center" valign="middle">
+    <td width="100" align="center" valign="middle">
       <img src="assets/assets/assets/Cursores neon em animação pixel art.gif" width="65" />
     </td>
   </tr>
@@ -39,6 +43,7 @@
 
 ---
 
+<!-- SEPARADOR NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
