@@ -18,16 +18,7 @@
 ---
 
 <!-- REDES SOCIAIS E SETA -->
-<div align="center">
-
-  <h2>
-    🌐 Redes sociais
-    <img
-      src="assets/assets/assets/Cursores neon em animação pixel art.gif"
-      width="75"
-      align="middle"
-    />
-  </h2>
+<h2 align="center">🌐 Redes sociais<img src="assets/assets/assets/Cursores neon em animação pixel art.gif" width="75" align="middle"></h2>
 
   <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
