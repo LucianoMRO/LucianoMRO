@@ -36,7 +36,7 @@
 
    <td width="15%" align="center" valign="middle">
   <img
-    src="assets/assets/assets/cursor_neon_clean_click.gif"
+    src="assets/assets/assets/Cursores neon em animação pixel art.gif"
     width="80"
     align="center"
   />
