@@ -39,5 +39,5 @@
 </p>
 
 <p align="right">
-  <img src="assets/assets/assets/Cursores neon em animação pixel art.gif" width="10" />
+  <img src="assets/assets/assets/Cursores neon em animação pixel art.gif" width="50" />
 </p>
