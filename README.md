@@ -1,6 +1,6 @@
-<p align="center">
+<p align="leftr">
   <a href="https://github.com/LucianoMRO" target="_blank">
-    Meu GitHub
+    https://github.com/LucianoMRO
   </a>
 </p>
 
