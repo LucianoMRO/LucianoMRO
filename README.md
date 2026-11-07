@@ -46,7 +46,7 @@
   />
 
 </div>
-2026
+
 
 <!-- SEPARADOR NEON -->
 <p align="center">
