@@ -39,5 +39,5 @@
 </p>
 
 <p align="right">
-  <img src="assets/cursor_clique_neon_transparente.gif" width="130" />
+  <img src="assets/assets/assets/cursor_neon_clean_click.gif" width="130" />
 </p>
