@@ -1,6 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=34&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Estudante+de+Programa%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+React" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Estudante+de+Programa%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+React" />
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=19&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Estudante+de+programa%C3%A7%C3%A3o%2C+interessado+em+tecnologia+e+desenvolvimento+web." />
+</p>
 
 <h2 align="center">
   Estudante de programação, interessado em tecnologia e desenvolvimento web.
