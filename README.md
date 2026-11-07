@@ -1,9 +1,7 @@
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=2500&pause=1000&color=00E5D4&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Luciano!;Estudante+de+Programa%C3%A7%C3%A3o;HTML%2C+CSS%2C+JavaScript+e+React" />
-</h1>
-
+<p align="center">
+  <img src="assets/nyan_cat_luciano_typing.gif" width="100%" />
+</p>
 
 <h2 align="center">
   Estudante de programação, interessado em tecnologia e desenvolvimento web.
@@ -40,6 +38,3 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
-<p align="center">
-  <img src="assets/assets/assets/w8ZJLtJbmuph.gif" width="900" />
-</p>
