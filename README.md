@@ -34,9 +34,13 @@
       </a>
     </td>
 
-    <td width="15%" align="center" valign="middle">
-      <img src="assets/assets/assets/cursor_neon_clean_click.gif" width="65">
-    </td>
+   <td width="15%" align="center" valign="middle">
+  <img
+    src="assets/assets/assets/cursor_neon_clean_click.gif"
+    width="80"
+    align="center"
+  />
+</td>
   </tr>
 </table>
 
