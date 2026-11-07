@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="assets/assets/assets/Op Art GIF by Joe Winograd.gif" width="100%" height="5" />
-</p>
-
 <!-- GIF PRINCIPAL -->
 <p align="center">
   <img src="assets/assets/assets/nyan_cat_luciano_typing.gif" width="100%" />
@@ -56,3 +52,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
 
+
+<p align="center">
+  <img src="assets/assets/assets/Op Art GIF by Joe Winograd.gif" width="30" height="40" />
+</p>
