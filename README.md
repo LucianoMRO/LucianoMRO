@@ -18,7 +18,7 @@
 
 ---
 
-<!-- REDES SOCIAIS E SETA CENTRALIZADAS -->
+<!-- REDES SOCIAIS E SETA -->
 <div align="center">
 
   <h2>🌐 Redes sociais</h2>
@@ -32,12 +32,10 @@
   <a href="https://www.tiktok.com/@luciano.tech2026">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-
-  <br><br>
-
   <img
     src="assets/assets/assets/Cursores neon em animação pixel art.gif"
-    width="80"
+    width="55"
+    align="middle"
   />
 
 </div>
