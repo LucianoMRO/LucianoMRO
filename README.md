@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">
-  Estudante de programação, interessado em tecnologia e desenvolvimento web, atualmente aprendendo React.
+  Estudante de programação, interessado em tecnologia e desenvolvimento web.
 </h2>
 
 ---
