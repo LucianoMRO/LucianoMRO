@@ -25,7 +25,7 @@
     🌐 Redes sociais
     <img
       src="assets/assets/assets/Cursores neon em animação pixel art.gif"
-      width="45"
+      width="65"
       align="middle"
     />
   </h2>
