@@ -1,4 +1,3 @@
-
 <!-- GIF PRINCIPAL -->
 <p align="center">
   <img src="assets/assets/assets/nyan_cat_luciano_typing.gif" width="100%" />
@@ -19,15 +18,16 @@
 ---
 
 <!-- REDES SOCIAIS E SETA -->
-<h2>
-  🌐 Redes sociais
-  <img
-    src="assets/assets/assets/Cursores neon em animação pixel art.gif"
-    width="75"
-    align="middle"
-    hspace="2"
-  />
-</h2>
+<div align="center">
+
+  <h2>
+    🌐 Redes sociais
+    <img
+      src="assets/assets/assets/Cursores neon em animação pixel art.gif"
+      width="75"
+      align="middle"
+    />
+  </h2>
 
   <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -50,6 +50,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
-
-
-
