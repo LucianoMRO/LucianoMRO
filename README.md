@@ -52,9 +52,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
 </p>
-
-<p align="leftr">
-  <a href="https://github.com/LucianoMRO" target="_blank">
-    Link 1
-  </a>
-</p>
