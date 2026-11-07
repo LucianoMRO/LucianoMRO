@@ -54,5 +54,5 @@
 
 
 <p align="center">
-  <img src="assets/assets/assets/Op Art GIF by Joe Winograd.gif" width="30" height="40" />
+  <img src="assets/assets/assets/Op Art GIF by Joe Winograd.gif" width="50" height="40" />
 </p>
