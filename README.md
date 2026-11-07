@@ -21,7 +21,14 @@
 <!-- REDES SOCIAIS E SETA -->
 <div align="center">
 
-  <h2>🌐 Redes sociais</h2>
+  <h2>
+    🌐 Redes sociais
+    <img
+      src="assets/assets/assets/Cursores neon em animação pixel art.gif"
+      width="45"
+      align="middle"
+    />
+  </h2>
 
   <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -36,10 +43,8 @@
   <a href="https://www.tiktok.com/@luciano.tech2026">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <img src="assets/assets/assets/Cursores neon em animação pixel art.gif" width="55" align="middle">
 
 </div>
-
 <!-- SEPARADOR NEON -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5D4,100:003B48&height=3&section=footer" />
