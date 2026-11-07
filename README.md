@@ -23,7 +23,7 @@
   <h2>
     🌐 Redes sociais
     <img
-      src="assets/assets/assets/Cursores neon em animação pixel art.gif"
+      src="assets/assets/assets/cursor_neon_cortado.gif"
       width="75"
       align="middle"
     />
