@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/LucianoMRO" target="_blank">
+    Meu GitHub
+  </a>
+</p>
 
 <!-- GIF PRINCIPAL -->
 <p align="center">
