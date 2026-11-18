@@ -1,7 +1,4 @@
 <!-- GIF PRINCIPAL -->
-<p align="center">
-  <img src="assets/assets/assets/nyan_cat_luciano_typing.gif" width="100%" />
-</p>
 
 <!-- DESCRIÇÃO -->
 <h2 align="center">
