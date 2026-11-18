@@ -2,7 +2,7 @@
 
 <!-- DESCRIÇÃO -->
 <h2 align="center">
-  Estudante de programação, interessado em tecnologia e desenvolvimento web.
+  Estudante de programação, interessado em tecnologia e desenvolvimento web
 </h2>
 
 ---
