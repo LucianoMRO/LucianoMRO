@@ -19,11 +19,7 @@
 
   <h2>
     🌐 Redes sociais
-    <img
-      src="assets/assets/assets/cursor_neon_cortado.gif"
-      width="35"
-      align="middle"
-    />
+
   </h2>
 
   <a href="https://www.youtube.com/channel/UCYqt7iMMHaD5-99XDHXX1jQ">
